@@ -9,4 +9,4 @@
   </a>
 </div>
  <br>
- - 📚 Sou estudante de Java, pelo Edutech-PR
+ - 📚 Estou cursondo Engenharia de Software, na UTFPR de Dois Vizinhos.
