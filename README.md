@@ -9,4 +9,4 @@
   </a>
 </div>
  <br>
- - 📚 Estou cursondo Engenharia de Software, na UTFPR de Dois Vizinhos.
+ - 📚 Estou cursando Engenharia de Software, na UTFPR de Dois Vizinhos.
